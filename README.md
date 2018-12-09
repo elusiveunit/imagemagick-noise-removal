@@ -7,7 +7,7 @@ All credit to the original authors, this is just a reference for myself.
 
 The example will be a scan of the cover image for [The Hunt for Gollum](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-the-card-game/products/the-hunt-for-gollum/), an Adventure Pack for The Lord of the Rings: The Card Game.
 
-![Original scan](/img.png?raw=true)
+![Original scan](/img.jpg?raw=true)
 
 The scan has an undesired circular pattern:
 
